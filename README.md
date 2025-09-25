@@ -12,7 +12,7 @@ Visual Studio Code - 1.104.0
 
 ### Step 1 :
 
-Install rustup-init.exe from https://www.rust-lang.org/tools/install and run the exe file.
+Install rustup-init.exe from https://www.rust-lang.org/tools/install and run the file.
 
 ### Step 2 :
 
